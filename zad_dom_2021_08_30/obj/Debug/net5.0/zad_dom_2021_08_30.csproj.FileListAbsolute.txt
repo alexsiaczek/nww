@@ -1,0 +1,16 @@
+C:\Users\OLEK\source\repos\zad_dom_2021_08_30\zad_dom_2021_08_30\bin\Debug\net5.0\zad_dom_2021_08_30.exe
+C:\Users\OLEK\source\repos\zad_dom_2021_08_30\zad_dom_2021_08_30\bin\Debug\net5.0\zad_dom_2021_08_30.deps.json
+C:\Users\OLEK\source\repos\zad_dom_2021_08_30\zad_dom_2021_08_30\bin\Debug\net5.0\zad_dom_2021_08_30.runtimeconfig.json
+C:\Users\OLEK\source\repos\zad_dom_2021_08_30\zad_dom_2021_08_30\bin\Debug\net5.0\zad_dom_2021_08_30.runtimeconfig.dev.json
+C:\Users\OLEK\source\repos\zad_dom_2021_08_30\zad_dom_2021_08_30\bin\Debug\net5.0\zad_dom_2021_08_30.dll
+C:\Users\OLEK\source\repos\zad_dom_2021_08_30\zad_dom_2021_08_30\bin\Debug\net5.0\ref\zad_dom_2021_08_30.dll
+C:\Users\OLEK\source\repos\zad_dom_2021_08_30\zad_dom_2021_08_30\bin\Debug\net5.0\zad_dom_2021_08_30.pdb
+C:\Users\OLEK\source\repos\zad_dom_2021_08_30\zad_dom_2021_08_30\obj\Debug\net5.0\zad_dom_2021_08_30.csproj.AssemblyReference.cache
+C:\Users\OLEK\source\repos\zad_dom_2021_08_30\zad_dom_2021_08_30\obj\Debug\net5.0\zad_dom_2021_08_30.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OLEK\source\repos\zad_dom_2021_08_30\zad_dom_2021_08_30\obj\Debug\net5.0\zad_dom_2021_08_30.AssemblyInfoInputs.cache
+C:\Users\OLEK\source\repos\zad_dom_2021_08_30\zad_dom_2021_08_30\obj\Debug\net5.0\zad_dom_2021_08_30.AssemblyInfo.cs
+C:\Users\OLEK\source\repos\zad_dom_2021_08_30\zad_dom_2021_08_30\obj\Debug\net5.0\zad_dom_2021_08_30.csproj.CoreCompileInputs.cache
+C:\Users\OLEK\source\repos\zad_dom_2021_08_30\zad_dom_2021_08_30\obj\Debug\net5.0\zad_dom_2021_08_30.dll
+C:\Users\OLEK\source\repos\zad_dom_2021_08_30\zad_dom_2021_08_30\obj\Debug\net5.0\ref\zad_dom_2021_08_30.dll
+C:\Users\OLEK\source\repos\zad_dom_2021_08_30\zad_dom_2021_08_30\obj\Debug\net5.0\zad_dom_2021_08_30.pdb
+C:\Users\OLEK\source\repos\zad_dom_2021_08_30\zad_dom_2021_08_30\obj\Debug\net5.0\zad_dom_2021_08_30.genruntimeconfig.cache
